@@ -7,10 +7,15 @@ Custom middleware is a class with Invoke() method which allows us to implement o
 
 This tutorial explains about custom middleware in Asp.Net Core MVC to log exceptions globally.
 
-Middleware in Asp.Net Core MVC
-https://www.youtube.com/watch?v=04vP9xFk0l4
+<a href="https://www.youtube.com/watch?v=04vP9xFk0l4">Middleware in Asp.Net Core MVC</a>
 
-Application logging in Asp.Net MVC Core
-https://www.youtube.com/watch?v=OKITQsF6MNc
+<a href="https://www.youtube.com/watch?v=OKITQsF6MNc">Application logging in Asp.Net MVC Core</a>
 
-Watch this tutorial at https://youtu.be/NjOC4q_57VI
+<a href="https://youtu.be/NjOC4q_57VI">Watch this (Custom Middleware) tutorial on Youtube</a>
+
+Follow us on <br/>
+<a href="https://twitter.com/Skynetechs">twitter</a> <br/>
+<a href="https://www.facebook.com/Skynetfor.net">facebook</a>
+
+<br/>
+<a href="https://github.com/Skynet-Demos">All Skynet-Demo Git Repos</a> <br/>
