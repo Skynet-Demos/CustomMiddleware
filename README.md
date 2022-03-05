@@ -1,4 +1,4 @@
-# CustomMiddleware
+# Custom Middleware
 Middleware is generally encapsulated in a class and exposed with an extension method which is executed on every request in ASP.NET Core application. 
 
 Middleware is configured in Configure method the Startup.cs file.
